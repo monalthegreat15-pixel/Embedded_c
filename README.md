@@ -1,5 +1,5 @@
 # 8051-Embedded-Projects
-## LED blinking 
+  01_LED_Blinking 
 ## Project overview 
 This project demonstartes LED blinking using the 8051 microcontroller programmed in Embedded c.
 ## Software used
